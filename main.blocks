@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="v(-8qyK3!u,|JHrT1Lzd" x="422" y="-74"></block><block type="pxt-on-start" id="QVL72(lVdE,v;F|A*lKb" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id=".s_9:XjI?M)8.}!CokM|"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # . # . #
+        `</field><next><block type="device_pause" id="yS(B~5C,,8HToh=@y`or"><value name="pause"><shadow type="timePicker" id="Q7iJK+Z-!Xg?Q@49PdZP"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="KJ`9)%K^HA}4cn]@lf)}"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # . # . # 
+        . # # # .
+        `</field><next><block type="device_pause" id="qJg{rf8BkUd}~|r@n#*,"><value name="pause"><shadow type="timePicker" id="q:qSNWgJ*eSyP0p!t$~*"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id=".aJ^0mB?vDHcLhNj5;vU"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # . # . # 
+        . # # # . 
+        # # # # #
+        `</field><next><block type="device_pause" id="[fAd`jS2%oNTxXc1pAoT"><value name="pause"><shadow type="timePicker" id="3C5))aK~3#nOH%AM$v_^"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="M?E6m{cJ3k8o2W{eWkoN"><field name="LEDS">`
+        . . . . . 
+        # . # . # 
+        . # # # . 
+        # # # # # 
+        . # # # .
+        `</field><next><block type="device_pause" id="y}Ve|CEV6z}%v7_!Y8kb"><value name="pause"><shadow type="timePicker" id="p;#k#DO{EC1i!.Y[1;#J"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="/#^p}Os(VG)Qgi!VMlc4"><field name="LEDS">`
+        # . # . # 
+        . # # # . 
+        # # # # # 
+        . # # # . 
+        # . # . #
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
